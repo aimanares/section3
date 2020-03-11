@@ -1,0 +1,19 @@
+* {
+  font-family: Arial;
+}
+
+body {
+  background-color: skyblue;
+}
+
+label {
+  color: blue;
+}
+
+p {
+  color:red;
+}
+
+li {
+  color:red;
+}
